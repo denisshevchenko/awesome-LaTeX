@@ -253,6 +253,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX) - The LaTeX wikibook. Not really a paper book, but it is equally extensive.
 - [The LaTeX Companion, F. Mittelbach (2004)](https://www.informit.com/store/latex-companion-9780201362992)
 - [LaTeX Graphics Companion, M. Goossens (2007)](https://www.informit.com/store/latex-graphics-companion-9780321508928)
+- [Slides with LaTeX](https://leanpub.com/slideswithlatex) - A concise guide on how to make clean and modern looking presentations using LaTeX.
 
 ## Blogs
 
